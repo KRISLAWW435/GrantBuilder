@@ -1,0 +1,6 @@
+{
+  "name": "GRANT BUILDER",
+  "description": "Конструктор грантовых заявок с поддержкой ИИ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
